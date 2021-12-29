@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using ASM1_v2.Models;
+using ASM1.Models;
 
-namespace ASM1_v2.Data
+namespace ASM1.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
