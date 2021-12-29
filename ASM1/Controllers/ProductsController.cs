@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ASM1_v2.Data;
-using ASM1_v2.Models;
+using ASM1.Data;
+using ASM1.Models;
 
-namespace ASM1_v2.Controllers
+namespace ASM1.Controllers
 {
     public class ProductsController : Controller
     {
