@@ -1,8 +1,8 @@
-﻿using ASM1_v2.Models;
+﻿using ASM1.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace ASM1_v2.Controllers
+namespace ASM1.Controllers
 {
     public class HomeController : Controller
     {
