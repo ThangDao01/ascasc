@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-ASM1_v2-E5B67BE5-1343-4845-85EC-2E377DBC41B1</UserSecretsId>
-    <RootNamespace>ASM1_v2</RootNamespace>
+    <RootNamespace>ASM1</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
